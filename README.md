@@ -1,12 +1,8 @@
-# ![](src/icons/icon.svg) Auto mute ![](https://img.shields.io/amo/v/auto-mute.svg)
-Auto mute of new tabs. Possibility to enable mute tabs in private and normal mode.
+# ![Icon](src/icons/icon.svg) Auto mute ![Version: 1.1b](https://img.shields.io/badge/Version:-1.1b-green.svg)
 
-## Requirements
-- Firefox 45+
 
-## Permissions
-- Tabs
-- Storage
+#### Changes
+Just fixed manifest.json and added italian translation
 
-## Download
-https://addons.mozilla.org/firefox/addon/auto-mute?src=external-github
+#### Forked from
+https://github.com/WaldiPL/autoMute
