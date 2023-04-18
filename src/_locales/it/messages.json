@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Auto silenzia"
+  },
+  "extensionDescription": {
+    "message": "Auto silenzia nuove schede."
+  },
+  "options": {
+    "message": "Opzioni"
+  },
+  "normal": {
+    "message": "Silenzia nuove schede in modalità normale"
+  },
+  "private": {
+    "message": "Silenzia nuove schede in modalità privata"
+  }
+}
