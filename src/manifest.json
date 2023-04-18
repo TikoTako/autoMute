@@ -1,8 +1,8 @@
 {
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
-      "id": "autoMute@waldemar.b",
-      "strict_min_version": "45.0a1"
+      "id": "AutoMute@tikotako.tk",
+      "strict_min_version": "57.0"
     }
   },
   "permissions": [
